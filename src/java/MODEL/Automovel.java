@@ -8,7 +8,7 @@ package MODEL;
 
 /**
  *
- * @author rafael
+ * @author rafael casagrande
  */
 public class Automovel {
     
